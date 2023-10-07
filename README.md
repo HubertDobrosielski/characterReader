@@ -1,2 +1,2 @@
 # characterReader
-charakter reader based AI
+character reader based AI
